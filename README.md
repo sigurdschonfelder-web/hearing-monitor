@@ -6,7 +6,8 @@ This project is a proof-of-concept (PoC) for automatically monitoring parliament
 
 The system combines hearing data from multiple sources, retrieves relevant historical hearing responses, and generates a structured assessment with recommendations.
 
-![Architecture](data\images\architecture.png)
+<img width="784" height="690" alt="image" src="https://github.com/user-attachments/assets/925ad813-7943-4451-88be-18c824536182" />
+
 
 ## Project Structure
 
